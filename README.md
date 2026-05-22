@@ -35,6 +35,13 @@ Langages   →  JavaScript (ES2023), SQL
 🔗 **[facturapro-eta.vercel.app](https://facturapro-eta.vercel.app)** · [Voir le repo →](https://github.com/patrickfranck18/devis-whatsapp-app)
 
 ---
+ 
+## 📊 Stats GitHub
+ 
+![Stats](https://github-readme-stats.vercel.app/api?username=patrickfranck18&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickfranck18&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+ 
+---
 
 ## 💼 Je suis disponible pour
 
@@ -46,9 +53,9 @@ Langages   →  JavaScript (ES2023), SQL
 
 ## 📬 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franck_Patrick_Arthur-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/franck-patrick-arthur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franck_Patrick_Arthur-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/patrickfranck18)
 [![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail)](mailto:franckpatrick18@gmail.com)
-[![Portfolio](https://img.shields.io/badge/App-FaturaPro-22c55e?style=flat&logo=vercel)](https://patrickfranck18.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/App-Portfolio-22c55e?style=flat&logo=vercel)](https://patrickfranck18.github.io/Portfolio)
 
 > *"Un projet livré vaut mieux que dix projets parfaits qui restent dans les brouillons."*
 
