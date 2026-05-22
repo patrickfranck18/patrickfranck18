@@ -35,13 +35,6 @@ Langages   →  JavaScript (ES2023), SQL
 🔗 **[facturapro-eta.vercel.app](https://facturapro-eta.vercel.app)** · [Voir le repo →](https://github.com/patrickfranck18/devis-whatsapp-app)
 
 ---
- 
-## 📊 Stats GitHub
- 
-![Stats](https://github-readme-stats.vercel.app/api?username=patrickfranck18&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickfranck18&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
- 
----
 
 ## 💼 Je suis disponible pour
 
